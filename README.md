@@ -1,2 +1,3 @@
 # hello-world
 All the new things
+I am a failed luddite and former technophobe slowly coming to terms with the realisation that the future is technology and that good in the world can be compounded by utilising the current and future advances in this area. Still looking over my shoulder for SkyNet though...
